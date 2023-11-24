@@ -8,8 +8,9 @@
     <title>Home</title>
 
 </head>
-
 <body>
+    @include('header')
+
     <h1>Steve Jobs</h1>
     <h2>Home Page</h2>
     <a href="/about">About</a><br>
@@ -80,6 +81,7 @@
             products that bear his visionary touch.</p>
         </div>
     </div>
+    @include('footer')
 </body>
 
 </html>

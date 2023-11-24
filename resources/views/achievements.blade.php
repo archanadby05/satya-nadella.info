@@ -7,7 +7,9 @@
     <title>Achievements</title>
 </head>
 <body>
+    @include('header')
     <h1>Achievements Page</h1>
     <a href="/">Home</a>
+    @include('footer')
 </body>
 </html>

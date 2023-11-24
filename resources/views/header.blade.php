@@ -32,7 +32,6 @@
     </style>
 </head>
 <body>
-
 <nav>
     <a href="#home">Home</a>
     <a href="#about">About Us</a>

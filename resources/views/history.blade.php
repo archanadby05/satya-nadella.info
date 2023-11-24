@@ -7,7 +7,9 @@
     <title>History</title>
 </head>
 <body>
+    @include('header')
     <h1>History Page</h1>
     <a href="/">Home</a>
+    @include('footer')
 </body>
 </html>
