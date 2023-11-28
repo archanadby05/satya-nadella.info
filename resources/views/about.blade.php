@@ -9,7 +9,6 @@
 <body>
     @include('header')
     <h1>About Page</h1>
-    <a href="/">Home</a>
     <div class="content">
         <div class="intro">
             <h3>Introduction:</h3>
@@ -36,6 +35,7 @@
             <p>In 1996, Apple acquired NeXT, bringing Jobs back into the fold. His return marked a period of unparalleled innovation. The iMac G3, introduced in 1998, rejuvenated Apple's product line, showcasing Jobs' commitment to design and aesthetics. The subsequent launches of the iPod, iPhone, and iPad solidified Apple's status as an industry leader.</p>
         </div>
     </div>
+
     @include('footer')
 </body>
 </html>
