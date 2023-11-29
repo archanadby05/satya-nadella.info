@@ -27,8 +27,8 @@
         .footer .footer-row {
             display: flex;
             flex-wrap: wrap;
-            justify-content: space-between;
-            gap: 3.5rem;
+            justify-content: center;
+            gap: 500px;
             padding: 30px;
         }
 
@@ -148,21 +148,13 @@
     <section class="footer">
         <div class="footer-row">
             <div class="footer-col">
-                <h4>Legal</h4>
+                <h4>Quick links</h4>
                 <ul class="links">
-                    <li><a href="#">Privacy Policy</a></li>
-                    <li><a href="#">GDPR</a></li>
-                    <li><a href="#">Testimonials</a></li>
-                    <li><a href="#">Media Kit</a></li>
-                </ul>
-            </div>
-            <div class="footer-col">
-                <h4>Legal</h4>
-                <ul class="links">
-                    <li><a href="#">Privacy Policy</a></li>
-                    <li><a href="#">GDPR</a></li>
-                    <li><a href="#">Testimonials</a></li>
-                    <li><a href="#">Media Kit</a></li>
+                    <li><a href="/">Home</a></li>
+                    <li><a href="/about">About</a></li>
+                    <li><a href="/history">History</a></li>
+                    <li><a href="/achievements">Achievements</a></li>
+                    <li><a href="/contact">Contact</a></li>
                 </ul>
             </div>
             <div class="footer-col">

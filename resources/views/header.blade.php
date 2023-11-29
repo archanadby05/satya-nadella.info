@@ -23,12 +23,12 @@
             display: block;
             color: white;
             text-align: center;
-            padding: 14px 35px;
+            padding: 16px 50px;
             text-decoration: none;
 
         }
         .first{
-            margin-left: 65px;
+            margin-left: 340px;
         }
         nav a:hover {
             background-color: #ddd;
@@ -40,10 +40,10 @@
 <body>
     <nav>
         <a href="/" class="first">Home</a>
-        <a href="/about">About Us</a>
-        <a href="/contact">Contact</a>
+        <a href="/about">About</a>
         <a href="/history">History</a>
-        <a href="/achievements">Achievement</a>
+        <a href="/achievements">Achievements</a>
+        <a href="/contact">Contact</a>
     </nav>
 
 
